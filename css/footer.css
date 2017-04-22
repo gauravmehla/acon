@@ -1,0 +1,15 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+.footer{
+  width: 97%;
+  font-family:'Open Sans',sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background-color: #0057af;
+  padding: 10px;
+}
